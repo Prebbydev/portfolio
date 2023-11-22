@@ -139,7 +139,7 @@ function App() {
               applications.
             </p>
             <h5 className='animated-div'>Technologies Used: Html, Vanilla CSS, JavaScript </h5>
-            <button className='animated-div'>View Project</button>
+            <a href="https://prebbydev.github.io/youtube-clone/"><button className='animated-div'>View Project</button></a>
           </div>
           <div className='project'>
             <img src={task} alt='' className='project_img animated-div'/>
