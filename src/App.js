@@ -83,7 +83,7 @@ function App() {
           I'm always eager to work on interesting projects and establish new connections. Kindly get in touch with me for 
           collaborations or connections.
         </p>
-        <button className='animated-div'>View Resume</button>
+        <button className='animated-div'><a href='https://drive.google.com/file/d/1-LzraTsX2GOJF9T0pheZt-PizGZe_qBx/view?usp=drivesdk'style={{textDecoration:'none',color:'inherit'}}>View Resume</a></button>
       </div>
       <div className='mySkills '>
         <h2 className='animated-div'>My Skills</h2>
@@ -179,7 +179,7 @@ function App() {
             <a href='https://github.com/Prebbydev'>
               <FaGithub className='contact_icon animated-div'/>
             </a>
-            <a href='https://www.linkedin.com/in/precious-ogbolu-91aaa4198/'>
+            <a href='https://www.linkedin.com/in/preciousogbolu'>
               <FaLinkedin className='contact_icon animated-div'/>
             </a>
             <a href='https://twitter.com/_southieB'>
