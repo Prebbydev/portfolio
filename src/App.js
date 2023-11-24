@@ -83,7 +83,7 @@ function App() {
           I'm always eager to work on interesting projects and establish new connections. Kindly get in touch with me for 
           collaborations or connections.
         </p>
-        <button className='animated-div'><a href='https://drive.google.com/file/d/1-LzraTsX2GOJF9T0pheZt-PizGZe_qBx/view?usp=drivesdk'style={{textDecoration:'none',color:'inherit'}}>View Resume</a></button>
+        <button className='animated-div'><a href='https://drive.google.com/file/d/1-jrwSefMACWOZK3Y4bNXXnQRI-16MUBP/view?usp=drivesdk'style={{textDecoration:'none',color:'inherit'}}>View Resume</a></button>
       </div>
       <div className='mySkills '>
         <h2 className='animated-div'>My Skills</h2>
